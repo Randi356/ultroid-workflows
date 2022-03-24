@@ -1,4 +1,4 @@
-# HOW TO HOST ULTROID USERBOT ON GITHUB WORKFLOWS BY TELE TIPS
+# HOW TO HOST ULTROID USERBOT ON GITHUB WORKFLOWS
 
 [![TELEGRAM](https://img.shields.io/badge/Rendy%20X-738BD7.svg?style=for-the-badge)](https://t.me/rencprx)
 
