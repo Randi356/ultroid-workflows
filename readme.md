@@ -3,7 +3,7 @@
 [![TELEGRAM](https://img.shields.io/badge/Rendy%20X-738BD7.svg?style=for-the-badge)](https://t.me/rencprx)
 
 # ULTROID WORKFLOWS
-REPO CLICK [ultroid-workflows](https://github.com/Randi356/ultroid-workflows) WORKFLOWS
+REPO CLICK [ultroid](https://github.com/Randi356/ultroid-workflows)
 
 # SECRETS
 ```  
