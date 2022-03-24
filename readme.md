@@ -1,10 +1,6 @@
 # HOW TO HOST ULTROID USERBOT ON GITHUB WORKFLOWS BY TELE TIPS
 
-Fork this repository. Watch the full tutorial of TeLe TiPs - Telegram on YouTube
-
-<p align="center">
-<img src="https://telegra.ph/file/d5df9ef11f35c848c77e5.jpg">
-<p>
+[![TELEGRAM](https://img.shields.io/badge/Rendy%20X-738BD7.svg?style=for-the-badge)](https://t.me/rencprx)
 
 # SECRETS
 ```  
