@@ -9,5 +9,8 @@ GitHubName = Your GitHub username
 GitHubMail = Your GitHub E-mail
 GH_TOKEN
 ```  
+# Variables
+
+CLICK [ENV](https://github.com/Randi356/Ultroid-CredsV5) ultroid
   
   
